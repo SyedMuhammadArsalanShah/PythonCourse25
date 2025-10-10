@@ -4,19 +4,19 @@ print(1+2)
 
 
 
-# name="SMAS"
-# age=00
-# height=5.7
-# country="PK"
-# isPythonCourse=True
+name="SMAS"
+age=00
+height=5.7
+country="PK"
+isPythonCourse=True
 
 
 
-# print("Username",name)
-# print("User age",age)
-# print("User Height",height)
-# print("User Location",country)
-# print("User COurse Launch",isPythonCourse)
+print("Username",name)
+print("User age",age)
+print("User Height",height)
+print("User Location",country)
+print("User Course Launch",isPythonCourse)
 
 
 

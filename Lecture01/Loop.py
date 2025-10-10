@@ -20,6 +20,6 @@ while(a<=10):
 while True:
     name=input("Enter Your Name")
     if name=="Admin":
-        break;
+        break
     else:
         print(name)
