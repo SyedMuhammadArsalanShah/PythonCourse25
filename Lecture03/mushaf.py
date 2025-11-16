@@ -54,7 +54,8 @@ for i , ayah in enumerate(arabic_ayah):
     if show_translation and tr_ayah[i]:
         st.info(tr_ayah[i]["text"])
 
-
-
+st.html("<p></p>")
+st.balloons()
+st.snow()
 st.markdown("---")
 st.markdown("Developed BY SMASB")
